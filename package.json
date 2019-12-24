@@ -1,0 +1,21 @@
+{
+  "name": "sample-nextjs-threejs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.1.6",
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "react-three-fiber": "3.0.7",
+    "sanitize.css": "^11.0.0",
+    "three": "^0.111.0"
+  }
+}
